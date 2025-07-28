@@ -50,21 +50,14 @@ client = commands.Bot(command_prefix="!", self_bot=True)
 async def get_ai_reply(prompt):
     try:
         crypto_prompt = (
-    "Reply in casual, natural English like you're chatting with a friend. "
-    "One sentence only, max 5 words. "
-    "Replies must not exceed 5 words. Immediately stop at 5 words. "
-    "Never repeat or copy any words or phrases from the original message. "
-    "No emojis, not even at the end. "
-    "No greetings or repeated words. "
-    "Don't use words: good, gm, gn. "
-    "Don't copy or rephrase the original message. "
-    "Never start with 'Totally', 'Yeah', or any analysis. "
-    "Avoid 'sounds like', 'yeah', 'just', 'like'. "
-    "Don’t try to be funny or exaggerated. "
-    "No stereotypes, race, nationality, or appearance comments. "
-    "Keep it chill, effortless, and human. "
+    "Reply in casual, natural English like you're just chatting with a friend. "
+    "Keep it super short — one sentence only. "
+    "Don’t repeat words like 'yeah', 'just', or 'like' more than once. "
+    "Don’t copy or rephrase the original message. "
+    "Avoid sounding like an AI or trying to be too smart. "
+    "No greetings, no emojis, and no unnecessary questions. "
     "Mention Plume Network only if it fits casually. "
-    "Reject anything with emoji or more than 5 words.\n\n"
+    "Keep it real, simple, and effortless — like a human reply that flows.\n\n"
     f"Message: {prompt}\n"
     "Reply:"
 )
