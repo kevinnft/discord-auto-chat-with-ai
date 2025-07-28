@@ -6,10 +6,10 @@
   
 # Fitur
 - auto chat with AI
-- random tag username chat
-- auto restart (fix some bug)
+- use reply in discord
+- auto restart 
 - random time spam
-- Untuk Push level Dscord
+- Push level Dscord
 - AI lebih manusiawi 
 
 **buat screen**
