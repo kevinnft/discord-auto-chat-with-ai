@@ -39,7 +39,7 @@ screen -S discord
 **Install Script**
 ```
 git clone https://github.com/kevinnft/discord-auto-chat-with-ai
-cd Discord-auto-with-AI
+cd discord-auto-chat-with-ai
 ```
 Buat environtment
 ```
