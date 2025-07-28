@@ -82,15 +82,13 @@ screen -r discord
 ## DISCLAIMER
 Gunakan dengan bijak, semua risiko dan tanggung jawab ada di tangan pengguna.
 
-## Support by MyBrain, Chat GPT AI & Join Channel Airdrop Sambil Rebahan : https://t.me/kingfeeder
-
 ## ☕ Donate for Coffee
 
 **EVM Address**  
-`0xE70Cfda5FE920d0439752D1Cc8081Ef58479aC85`
+`0x7C8c8eF20a48901372775618330B294ab937C934`
 
 **SOL Address**  
-`J6qmkXTnngtWeK1JU5kHjfuRrnwgtiLN5QwsRdPjj27C`
+`GvvSje68JxGQ1suRguLcTq27TwNUzTomed3mEtt1s1KE`
 
 ---
 © 2025 Airdrop Sambil Rebahan. All rights reserved.
